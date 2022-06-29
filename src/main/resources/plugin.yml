@@ -1,0 +1,4 @@
+name: SuperPlugin
+version: 1.0
+author: Le Grand Nicolas
+main: re.nicolas.plugin.workshop.SuperPluginPlugin
